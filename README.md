@@ -32,4 +32,4 @@ Work your way through a Set deck with a group of testers. Winning isn’t the im
  How to Make a Triangle https://www.youtube.com/watch?v=XJNacnx1fAA  
  https://paperkit.net/
  
- Thanks Justin and North American testing community  for education of software testers.   In Print folder you can find templates and PDF for printing on hammer paper.
+ Thanks Justin and North American testing community  for education of software testers.   In Print folder you can find templates and PDF for printing on matt paper.
