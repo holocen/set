@@ -22,8 +22,8 @@ Work your way through a Set deck with a group of testers. Winning isn’t the im
  
 
  I created resources for the game in Photoshop since I haven't found anything similar anywhere on Internet. Intention is to play it with my 4 year old daughter and have fun while sharpening testing skills. If any developer wants to create an application I would encourage it to use images which I provide  for printing.
- I used 6 colors - Three Primary Colors,Three Secondary Colors - Red (#ff6666), Yellow (#ffff33), Blue (#3333ff),Orange(#ffcc33), Green(#00ff00), Violet (#ff00ff)
- Three basic shapes square, triangle, circle
+ I used 6 colors - Three Primary Colors,Three Secondary Colors - Red (#ff6666), Yellow (#ffff33), Blue (#3333ff),Orange(#ffcc33), Green(#00ff00), Violet (#ff00ff)  
+ Three basic shapes square, triangle, circle  
  Three types of fill: stripes, solid, blank
  
  Sources: https://blog.gurock.com/teaching-software-testing-with-games/ Original post by Justin Rohrman  
@@ -31,4 +31,4 @@ Work your way through a Set deck with a group of testers. Winning isn’t the im
  How to Make a Triangle https://www.youtube.com/watch?v=XJNacnx1fAA  
  https://paperkit.net/
  
- Thanks Justin and North American testing community  for education of software testers.
+ Thanks Justin and North American testing community  for education of software testers.   In Print folder you can find templates and PDF for printing on Hammer paper.
