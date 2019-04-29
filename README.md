@@ -26,9 +26,10 @@ Work your way through a Set deck with a group of testers. Winning isn’t the im
  Three basic shapes square, triangle, circle  
  Three types of fill: stripes, solid, blank
  
- Sources: https://blog.gurock.com/teaching-software-testing-with-games/ Original post by Justin Rohrman  
+ Sources:   
+ https://blog.gurock.com/teaching-software-testing-with-games Original post by Justin Rohrman  
  Photoshop - Make a Stripe Pattern Quickly and Easily https://www.youtube.com/watch?v=evQsA4VmCb8  
  How to Make a Triangle https://www.youtube.com/watch?v=XJNacnx1fAA  
  https://paperkit.net/
  
- Thanks Justin and North American testing community  for education of software testers.   In Print folder you can find templates and PDF for printing on Hammer paper.
+ Thanks Justin and North American testing community  for education of software testers.   In Print folder you can find templates and PDF for printing on hammer paper.
