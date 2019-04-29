@@ -19,7 +19,7 @@ Imagine a software product that has 7 pages to submit data. Every page has a sub
 
 Work your way through a Set deck with a group of testers. Winning isn’t the important part. Hold a debrief at the end of the deck. Have each person talk about the strategies they developed for finding matches, such as quick scans, top to bottom, bottom to top, left to right, right to left. Discuss how they changed their strategy over time as they discovered one worked better than others, or one was better at finding certain types of patterns. This type of observation is a skill that can be developed through practice and feedback.
  
- 
+ ![alt text](https://github.com/holocen/set/blob/master/Set.jpg)
 
  I created resources for the game in Photoshop since I haven't found anything similar anywhere on Internet. Intention is to play it with my 4 year old daughter and have fun while sharpening testing skills. If any developer wants to create an application I would encourage it to use images which I provide  for printing.
  I used 6 colors - Three Primary Colors,Three Secondary Colors - Red (#ff6666), Yellow (#ffff33), Blue (#3333ff),Orange(#ffcc33), Green(#00ff00), Violet (#ff00ff)  
